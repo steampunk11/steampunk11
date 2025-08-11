@@ -1,10 +1,3 @@
-* INFORMES DE ANALISIS Y DISEÑO DEL SOFTWARE * PROPUESTAS TÉCNICAS DE SERVICIOS TI
-* BASE DE DATOS DEL SOFTWARE
-* PROTOTIPO DE LA SOLUCIÓN DE SOFTWARE
-* CODIGO DEL SOFTWARE
-* INFORME DE RESULTADOS DE PRUEBAS DE SOFTWARE
-* MANUALES TÉCNICOS DEL SOFTWARE, mysql, nosql, MONGO, FIREBASE, js, html, css, tailwind, bootstrap, php, laravel 11, django, python, java, github, coloca el analitica y medicion de comis subidos en el repositorio... entro otros …
-copie esta informacion:
 <h1 align="center">👨‍💻 Bienvenido a mi Perfil de GitHub</h1>
 
 <p align="center">
