@@ -12,19 +12,19 @@
 
 ---
 
-## 🕮 Documentación y Entregables Técnicos
-- 📌 **Informe de Especificación de Requisitos**
-- 📌 **Informes de Análisis y Diseño del Software**
-- 📌 **Propuestas Técnicas de Servicios TI**
-- 📌 **Base de Datos del Software**
-- 📌 **Prototipo de la Solución de Software**
-- 📌 **Código del Software**
-- 📌 **Informe de Resultados de Pruebas de Software**
-- 📌 **Manuales Técnicos del Software**
+## Documentación y Entregables Técnicos
+- **Informe de Especificación de Requisitos**
+- **Informes de Análisis y Diseño del Software**
+- **Propuestas Técnicas de Servicios TI**
+- **Base de Datos del Software**
+- **Prototipo de la Solución de Software**
+- **Código del Software**
+- **Informe de Resultados de Pruebas de Software**
+- **Manuales Técnicos del Software**
 
 ---
 
-## ⚙ Tecnologías & Herramientas
+## Tecnologías & Herramientas
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -45,7 +45,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=steampunk11&show_icons=true&theme=dracula&hide_title=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=steampunk11&layout=compact&theme=dracula" height="150" />
@@ -53,7 +53,7 @@
 
 ---
 
-## ⛧ Analítica de Actividad
+## Analítica de Actividad
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=steampunk11&theme=dracula" />
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=steampunk11&theme=dracula" />
@@ -61,14 +61,10 @@
 
 ---
 
-## 🖤 Contribuciones & Commits
-- Subida constante de commits técnicos documentados.
+## Contribuciones & Commits
 - Repositorios organizados por fases de desarrollo: documentación → diseño → prototipado → pruebas → entrega.
 - Uso de ramas y buenas prácticas en control de versiones.
 
----
-
-## ☠ Más...
 - Seguridad y control de acceso.
 - Integración con servicios cloud.
 - Automatización de pruebas.
